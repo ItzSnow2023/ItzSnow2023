@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JxstPaul
-- 👀 I’m interested in java and gaming
-- 🌱 I’m currently learning java ig
+- 👀 I’m interested in Java and Gaming
+- 🌱 I’m currently learning Java ig
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me You@Dont.com
 
